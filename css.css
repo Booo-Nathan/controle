@@ -1,0 +1,54 @@
+
+ /* _______________________________________________________ GLOBAL CSS ______________________________________________________________________________________ */
+
+body{
+	background-color: #FEF3E9;
+}
+
+#container{
+	width: 100%;
+	display: flex;
+	flex-direction: row ;
+	justify-content: center;
+    margin: 0;
+	padding: 0;
+}
+
+header{
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.fond{
+	width: 65%;
+	padding-left: 5%;
+}
+
+.image{
+	width: 30%;
+}
+
+.fond{
+	color: white;
+	background-color: black;
+}
+
+.gauche{
+	flex-direction: row;
+	width: 60%;
+	text-align: justify;
+}
+
+.gauche{
+		width: 40%;
+}
+
+h2{
+	margin-left: 10%;
+}
+
+ul {
+  list-style-type: none;
+}
+}
